@@ -1,1 +1,1 @@
-This is Git exercise from altcademy
+updated the file

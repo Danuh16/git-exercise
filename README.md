@@ -1,1 +1,1 @@
-# git-exercise
+This is Git exercise from altcademy
